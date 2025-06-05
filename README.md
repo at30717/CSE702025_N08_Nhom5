@@ -1,4 +1,24 @@
 # BTL-GROUP-5-KTPM-LT8-
+
+# Mục Lục:
+* Lời Mở Đầu
+* Giới thiệu chung về dự án.
+* Phần 1: Phân tích yêu cầu.
+1.	Yêu cầu.
+2.	Đối tượng sử dụng (tác nhân)
+3.	Cấu hình.
+* Phần 2: Các chức năng chi tiết 
+(đăng nhập/đăng kí)
+1.	Quản lý đặt bàn (đặt trước & theo thời gian thực)
+2.	Quản lý tiền đặt cọc bàn.
+3.	Quán lý lên món cho khách.
+4.	Thống kê doanh thu của quán. 
+* Phần 3. Đặc tả và thiết kế.
+1.	Bộ quy tắc thống nhất toàn bộ giao diện.
+2.	Usecase.(sơ đồ diagram)
+* Phần 4. UI flow
+	(các ảnh màn hình) và hướng dẫn sử dụng 
+* Phần 5.Kết quả và đánh giá
 # Lời Mở Đầu - Giới Thiệu:
 ## Lời mở đầu:
 Kính thưa thầy Vũ Quang Dũng,
