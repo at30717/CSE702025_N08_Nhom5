@@ -9,7 +9,7 @@ Nhóm chúng tôi xin chân thành cảm ơn thầy đã luôn hướng dẫn v�
 
 Xin cảm ơn thầy!
 ## Tên dự án: App Quản Lí Nhà Hàng
-### 1.Giới thiệu dự án:
+### 1. Giới thiệu dự án:
 - Dự án sử dụng figma với giao diện trực quan, sống động.
 - Dự án "Quản lý Nhà hàng" được thực hiện với mục tiêu xây dựng một hệ thống ứng dụng phục vụ cho cả quản lý và nhân viên nhà hàng. Hệ thống này được thiết kế bằng Figma với các tính năng tối ưu nhằm nâng cao hiệu quả quản lý và cải thiện trải nghiệm của khách hàng khi sử dụng dịch vụ.
 
