@@ -13,7 +13,7 @@ Xin cảm ơn thầy!
 - Dự án sử dụng figma với giao diện trực quan, sống động.
 - Dự án "Quản lý Nhà hàng" được thực hiện với mục tiêu xây dựng một hệ thống ứng dụng phục vụ cho cả quản lý và nhân viên nhà hàng. Hệ thống này được thiết kế bằng Figma với các tính năng tối ưu nhằm nâng cao hiệu quả quản lý và cải thiện trải nghiệm của khách hàng khi sử dụng dịch vụ.
 
-- Hệ thống bao gồm các chức năng chủ yếu như:
+### - Hệ thống bao gồm các chức năng chủ yếu như:
 
 - Đặt bàn: Khách hàng có thể đặt bàn trực tuyến qua ứng dụng, giúp tiết kiệm thời gian và tránh tình trạng hết chỗ. Quản lý cũng có thể theo dõi và xác nhận yêu cầu đặt bàn dễ dàng.
 
