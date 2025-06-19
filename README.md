@@ -46,7 +46,7 @@ Xin cảm ơn thầy!
 - Chatbox: Tính năng chatbox giúp khách hàng có thể giao tiếp trực tiếp với nhân viên, giải đáp thắc mắc về món ăn, dịch vụ, hoặc yêu cầu đặc biệt mà không cần phải gọi nhân viên trực tiếp. Điều này cũng giúp cải thiện sự phục vụ và mang đến trải nghiệm tiện lợi cho khách hàng.
 
 
-[App Quản Lí Nhà Hàng](https://www.figma.com/proto/BvB6AN4TY4kEFnxniykP77/App-qu%E1%BA%A3n-l%C3%AD-nh%C3%A0-h%C3%A0ng?node-id=113-4544&t=pkWkIBkISGMoPkx3-1)
+[App Quản Lí Nhà Hàng](https://www.figma.com/proto/BvB6AN4TY4kEFnxniykP77/App-qu%E1%BA%A3n-l%C3%AD-nh%C3%A0-h%C3%A0ng?node-id=0-1&t=VzO3LOIwbpm1IfqH-1)
 
 
 
