@@ -1,12 +1,12 @@
 # Đề tài: Ứng dụng Quản lý nhà hàng 
 
 # Thành viên:
-Giảng viên hướng dẫn: Vũ Quang Dũng
-Nhóm thực hiện: Nhóm 05
-Nguyễn Anh Quân - 23010375
-Nguyễn Trọng Tuấn - 23010690
-Nguyễn Anh Tuấn - 23010217
-Lớp: Kỹ thuật phần mềm-1-3-24(COUR01)
+* Giảng viên hướng dẫn: Vũ Quang Dũng
+* Nhóm thực hiện: Nhóm 05
+* Nguyễn Anh Quân - 23010375
+* Nguyễn Trọng Tuấn - 23010690
+* Nguyễn Anh Tuấn - 23010217
+* Lớp: Kỹ thuật phần mềm-1-3-24(COUR01)
 
 # Mục Lục:
 * Lời Mở Đầu
