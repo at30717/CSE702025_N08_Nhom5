@@ -1,4 +1,4 @@
-# BTL-GROUP-5-KTPM-LT8-
+# Đề tài: Ứng dụng Quản lý nhà hàng 
 
 # Mục Lục:
 * Lời Mở Đầu
